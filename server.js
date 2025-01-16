@@ -3,7 +3,6 @@ const mongoose = require("mongoose")
 const Product = require("./models/productModel")
 const app = express();
 
-
 //middleware
 //to use jason 
 app.use(express.json()) 
