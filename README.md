@@ -3,7 +3,6 @@
 A simple Node.js API for managing product data with full CRUD functionality and MongoDB as the database.
 
 ---
-
 ## Features
 
 - Middleware for parsing JSON and URL-encoded request bodies.
